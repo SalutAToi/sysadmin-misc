@@ -1,0 +1,17 @@
+type,samaccountname,computertype,reason,migrateto
+Computer,server-name$,Server,Server,app_server
+Computer,server-name$,Server,Server,
+Computer,server-name$,Server,Server,
+Computer,server-name$,Server,Server,
+Computer,server-name$,Server,Server,
+Computer,CC-SYD-FS$,Server,Server,
+Computer,CC-BNE-FS$,Server,Server,
+Computer,server-name$,Server,Server,net_server
+Computer,server-name$,Server,Server,
+Computer,server-name$,Server,Server,app_server
+Computer,CC-PER-DC$,Server,Server,
+Computer,server-name$,Server,Server,
+Computer,server-name$,Server,Server,app_server
+Computer,server-name$,Server,Server,file_server
+Computer,server-name$,Server,Server,net_server
+Computer,server-name$,Server,Server,app_server

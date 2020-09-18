@@ -1,0 +1,44 @@
+[
+    {
+        "server": "server-name",
+        "tasks": [
+            {
+                "drive": "F",
+                "path": [
+                    "ARCHIVE_TEST_DELETE",
+                    "IT administration\\ARCHIVE_TEST_DELETE"
+                ]
+            }
+        ]
+    },
+    {
+        "server": "server-name",
+        "tasks": [
+            {
+                "drive": "C",
+                "path": [
+                    "Users\\Public\\ARCHIVE_TEST_DELETE"
+                ]
+            }
+        ]
+    },
+    {
+        "server": "server-name",
+        "tasks": [
+            {
+                "drive": "C",
+                "path": [
+                    "temp\\ARCHIVE_TEST_DELETE"
+                ]
+            },
+            {
+                "drive": "E",
+                "path": [
+                    "data\\ARCHIVE_TEST_DELETE",
+                    "Temp Data\\ARCHIVE_TEST_DELETE"
+                ]
+            }
+        ]
+    }
+
+]

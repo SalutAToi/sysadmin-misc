@@ -1,0 +1,1 @@
+# Configuration files and script to integrate Linux in Active Directory

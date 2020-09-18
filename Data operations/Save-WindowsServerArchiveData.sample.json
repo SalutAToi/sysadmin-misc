@@ -1,0 +1,40 @@
+[
+    {
+        "server": "myserverhere",
+        "tasks": [
+            {
+                "drive": "X",
+                "path": [
+                    "my folder path without \\the drive letter\\or starting backslash\\ with double backslash as backslash",
+                    "second folder\\same rule"
+                ]
+            },
+            {
+                "drive": "Y",
+                "path": [
+                    "my other folder path without\\ the drive letter\\or starting backslash\\ with double backslash as backslash",
+                    "a second folder\\same rule",
+                    "a third folder\\same rule"
+                ]
+            }
+        ]
+    },
+    {
+        "server": "myserverhere",
+        "tasks": [
+            {
+                "drive": "X",
+                "path": [
+                    "my folder path without the \\drive letter\\or starting backslash\\ with double backslash as backslash",
+                    "second folder\\same rule"
+                ]
+            },
+            {
+                "drive": "Y",
+                "path": [
+                    "my other folder path without \\the drive letter\\or starting backslash\\ with double backslash as backslash"
+                ]
+            }
+        ]
+    }
+]
