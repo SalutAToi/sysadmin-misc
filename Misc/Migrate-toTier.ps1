@@ -1,4 +1,4 @@
-# Migrate the Cater Care infrastructure to the new Tier OU structure
+# Migrate the Company infrastructure to the new Tier OU structure
 # Requires the Powershell module for AD
 
 

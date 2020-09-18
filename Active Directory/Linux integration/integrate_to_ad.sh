@@ -2,7 +2,7 @@
 # integrate_to_ad.sh
 
 # this script is intended to partially automate the integration of a Linux host to Active Directory by installing necessary files
-# and installing configuration file for Cater Care AD domain
+# and installing configuration file for Company AD domain
 
 # this was designed for Debian 10
 # documentation is available here : https://docs.google.com/document/d/1UhwJA7tihbZdpPUd1gfxI_qC67vTt0SAWuuntQoukc0

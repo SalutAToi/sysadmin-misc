@@ -1,4 +1,4 @@
-# This script was designed by Cater Care to handle local admin password change
+# This script was designed by Company to handle local admin password change
 # AUTHOR : Christophe BAHIN
 
 # It check for the existence of a local admin with a designated name, creates it if non existent
