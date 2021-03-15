@@ -13,8 +13,8 @@ $IPv4Address = "10.0.42.100"
 $IPv4Prefix = "24"
 $IPv4DNS = "10.0.42.100"
 
-$domainName  = "domain.com"
-$netBIOSname = "domain"
+$domainName  = "catercare.local"
+$netBIOSname = "catercare"
 $mode  = "WinThreshold"
 
 $ipIF = (Get-NetAdapter).ifIndex
@@ -67,3 +67,4 @@ if ($args[0] -eq 3) {
     Add-ADGroupMember -Identity "Remote Desktop Users" -Members "Domain Users"
     Set-ADDefaultDomainPasswordPolicy -MinPasswordAge 0 -MaxPasswordAge 0 -ComplexityEnabled $false -MinPasswordLength 0 -PasswordHistoryCount 0 -LockoutObservationWindow 0 -LockoutThreshold 0 -Identity $domainName
 }
+W
