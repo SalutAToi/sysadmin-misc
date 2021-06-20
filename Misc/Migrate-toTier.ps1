@@ -10,8 +10,8 @@ $APISecretKey = Read-Host -Prompt "Please input the secret API key "
 
 # configuration for datto API
 $params = @{
-    Url       = 'https://syrah-api.centrastage.net'
-    Key       = 'E3DKFCJT3JL8ESF4SUU5UMPH3VEGDJ68'
+    Url       = 'datto api url'
+    Key       = 'datto key'
     SecretKey = $APISecretKey
 }
 
